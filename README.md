@@ -1,0 +1,1 @@
+--- Test publishing package to Maven Central
